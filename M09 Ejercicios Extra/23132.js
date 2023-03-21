@@ -23,5 +23,4 @@ function buscoInterseccion(array1, array2) {
    }  
    return arreglo;
 }
-
  console.log(buscoInterseccion([4,2,3,7,3,4,1], [1,3,4]));

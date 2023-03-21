@@ -155,7 +155,7 @@ function buscoInterseccion(array1, array2) {
             k++;
          } 
          j++;
-      } while (j<array2.length);
+      } while (j < array2.length);
 
       j = 0;
    }  
